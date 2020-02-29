@@ -1,1 +1,1 @@
-static int my_sum(const char *src)
+int getSum(char buf[]);
